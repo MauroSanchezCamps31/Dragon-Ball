@@ -6,7 +6,7 @@ import piccoloImage from "../assets/piccolo.png";
 import friezaImage from "../assets/frieza.png";
 
 const characters = [
-  { name: "Goku", image: gokuImage, powerLevel: "9001+" },
+  { name: "Goku", image: gokuImage, powerLevel: "9001" },
   { name: "Vegeta", image: vegetaImage, powerLevel: "8500" },
   { name: "Piccolo", image: piccoloImage, powerLevel: "8000" },
   { name: "Frieza", image: friezaImage, powerLevel: "9500" },

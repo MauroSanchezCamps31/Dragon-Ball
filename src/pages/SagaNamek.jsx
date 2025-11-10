@@ -5,7 +5,7 @@ import piccoloImage from "../assets/piccolo.png";
 import friezaImage from "../assets/frieza.png";
 
 const sagaCharacters = [
-  { name: "Goku", image: gokuImage, powerLevel: "9001+" },
+  { name: "Goku", image: gokuImage, powerLevel: "9001" },
   { name: "Piccolo", image: piccoloImage, powerLevel: "8000" },
   { name: "Frieza", image: friezaImage, powerLevel: "9500" },
 ];
